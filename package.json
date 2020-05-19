@@ -1,6 +1,6 @@
 {
   "name": "@polleverywhere/hmr-custom-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Register custom elements with hot module replacement support",
   "main": "index.js",
   "repository": "git@github.com:polleverywhere/hmr-custom-element.git",
